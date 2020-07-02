@@ -1,0 +1,15 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< clinic.programmming:maven-zero >-------------------
+[INFO] Building maven-zero 1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ maven-zero ---
+[INFO] clinic.programmming:maven-zero:jar:1.0
+[INFO] \- org.apache.commons:commons-lang3:jar:3.10:compile
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  7.063 s
+[INFO] Finished at: 2020-06-29T20:51:33+06:00
+[INFO] ------------------------------------------------------------------------
